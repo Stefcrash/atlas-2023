@@ -1,0 +1,39 @@
+{
+	"id": 359,
+	"name": "Technoblade",
+	"description": "This large artwork is a tribute to the popular Minecraft youtuber \"Technoblade\". Technoblade died in 2022 from complications with cancer, since then the minecraft community has been representing Technoblade on r/place to forever solidify his legacy and impact on people around the world. The german streamer \"Lattensepp\" (Papaplatte) helped with the creation.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/papaplatte"
+		],
+		"subreddit": [
+			"Technoblade"
+		]
+	},
+	"path": {
+		"55-200": [
+			[
+				672,
+				-287
+			],
+			[
+				672,
+				-149
+			],
+			[
+				500,
+				-149
+			],
+			[
+				500,
+				-287
+			]
+		]
+	},
+	"center": {
+		"55-200": [
+			586,
+			-218
+		]
+	}
+}
