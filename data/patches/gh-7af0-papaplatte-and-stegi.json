@@ -1,0 +1,56 @@
+{
+	"id": 1220,
+	"name": "Papaplatte and Stegi",
+	"description": "\"Papaplatte\" and \"Stegi\" are both German Twitch streamers and youtubers. Both of them have assisted the German community and also created their own artworks. The Germans made this artwork as thanks for their help. \nRight beside the Domo fan are the mascots of their good friends \"Reeze\", \"Filow\" and \"Unge\".",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/stegi",
+			"https://www.twitch.tv/papaplatte",
+			"https://www.twitch.tv/Reeze",
+			"https://www.twitch.tv/Filow",
+			"https://www.twitch.tv/Unge"
+		]
+	},
+	"path": {
+		"152-200": [
+			[
+				-399,
+				-913
+			],
+			[
+				-406,
+				-936
+			],
+			[
+				-402,
+				-960
+			],
+			[
+				-378,
+				-961
+			],
+			[
+				-376,
+				-941
+			],
+			[
+				-363,
+				-914
+			],
+			[
+				-415,
+				-913
+			],
+			[
+				-402,
+				-960
+			]
+		]
+	},
+	"center": {
+		"152-200": [
+			-386,
+			-928
+		]
+	}
+}
